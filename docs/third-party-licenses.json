@@ -1,12 +1,5 @@
 [
     {
-        "name": "buffer",
-        "version": "6.0.3",
-        "spdx": "MIT",
-        "url": "https://github.com/feross/buffer",
-        "license": "https://github.com/feross/buffer/blob/master/LICENSE"
-    },
-    {
         "name": "crypto-browserify",
         "version": "3.12.0",
         "spdx": "MIT",
@@ -26,13 +19,6 @@
         "spdx": "MIT",
         "url": "https://github.com/jimmywarting/FormData",
         "license": "https://github.com/jimmywarting/FormData/blob/master/LICENSE"
-    },
-    {
-        "name": "mime-types",
-        "version": "2.1.1",
-        "spdx": "MIT",
-        "url": "https://github.com/jshttp/mime-types",
-        "license": "https://github.com/jshttp/mime-types/blob/master/LICENSE"
     },
     {
         "name": "node-fetch",
