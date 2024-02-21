@@ -2,7 +2,7 @@
 
 ## Overview
 
-This VS Code extension allows you to manage Arm Virtual Hardware and run embedded applications on them.
+This Visual Studio Code extension allows you to manage Arm® Virtual Hardware (AVH) and run embedded applications on them.
 
 ## Extension Settings
 

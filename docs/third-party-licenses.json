@@ -1,10 +1,24 @@
 [
     {
+        "name": "@fortawesome/fontawesome-free",
+        "version": "6.5.1",
+        "spdx": "MIT",
+        "url": "https://github.com/FortAwesome/Font-Awesome",
+        "license": "https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt"
+    },
+    {
+        "name": "@vscode/codicons",
+        "version": "0.0.32",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-codicons",
+        "license": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE-CODE"
+    },
+    {
         "name": "crypto-browserify",
         "version": "3.12.0",
         "spdx": "MIT",
-        "url": "https://github.com/crypto-browserify/crypto-browserify",
-        "license": "https://github.com/crypto-browserify/crypto-browserify/blob/master/LICENSE"
+        "url": "https://github.com/browserify/crypto-browserify",
+        "license": "https://raw.githubusercontent.com/browserify/crypto-browserify/master/LICENSE"
     },
     {
         "name": "fetch-blob",
@@ -21,8 +35,15 @@
         "license": "https://github.com/jimmywarting/FormData/blob/master/LICENSE"
     },
     {
+        "name": "jsonc-parser",
+        "version": "3.2.1",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/node-jsonc-parser",
+        "license": "https://github.com/microsoft/node-jsonc-parser/blob/main/LICENSE.md"
+    },
+    {
         "name": "node-fetch",
-        "version": "3.0.0",
+        "version": "3.3.2",
         "spdx": "MIT",
         "url": "https://github.com/node-fetch/node-fetch",
         "license": "https://github.com/node-fetch/node-fetch/blob/main/LICENSE.md"
@@ -35,6 +56,34 @@
         "license": "https://github.com/browserify/path-browserify/blob/master/LICENSE"
     },
     {
+        "name": "primereact",
+        "version": "10.5.0",
+        "spdx": "MIT",
+        "url": "https://github.com/primefaces/primereact",
+        "license": "https://github.com/primefaces/primereact/blob/master/LICENSE.md"
+    },
+    {
+        "name": "react",
+        "version": "18.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/facebook/react",
+        "license": "https://github.com/facebook/react/blob/main/LICENSE"
+    },
+    {
+        "name": "react-dom",
+        "version": "18.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/facebook/react",
+        "license": "https://github.com/facebook/react/blob/main/LICENSE"
+    },
+    {
+        "name": "react-scroll",
+        "version": "1.9.0",
+        "spdx": "MIT",
+        "url": "https://github.com/fisshy/react-scroll",
+        "license": "https://github.com/fisshy/react-scroll/blob/master/LICENSE"
+    },
+    {
         "name": "stream-browserify",
         "version": "3.0.0",
         "spdx": "MIT",
@@ -43,9 +92,37 @@
     },
     {
         "name": "vscode-extension-telemetry",
-        "version": "0.6.2",
+        "version": "0.9.2",
         "spdx": "MIT",
         "url": "https://github.com/microsoft/vscode-extension-telemetry",
         "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
+    },
+    {
+        "name": "vscode-messenger",
+        "version": "0.4.5",
+        "spdx": "MIT",
+        "url": "https://github.com/TypeFox/vscode-messenger",
+        "license": "https://github.com/TypeFox/vscode-messenger/blob/main/LICENSE"
+    },
+    {
+        "name": "vscode-uri",
+        "version": "3.0.8",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-uri",
+        "license": "https://github.com/microsoft/vscode-uri/blob/main/LICENSE.md"
+    },
+    {
+        "name": "webview-ui-toolkit",
+        "version": "1.4.0",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-webview-ui-toolkit",
+        "license": "https://github.com/microsoft/vscode-webview-ui-toolkit/blob/main/LICENSE"
+    },
+    {
+        "name": "ws",
+        "version": "8.14.2",
+        "spdx": "MIT",
+        "url": "https://github.com/websockets/ws",
+        "license": "https://github.com/websockets/ws/blob/master/LICENSE"
     }
 ]

@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.5.4
+
+- Added `listAvailableVhts` method to API for getting available VHTs
+- Shows Output channel only when it has content  
+
 ## 0.5.3
 
 - Fixed an issue with deploying to AVH
