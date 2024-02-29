@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.6.0
+- Added a custom editor for Fixed Virtual Platform parameter files
+
 ## 0.5.4
 
 - Added `listAvailableVhts` method to API for getting available VHTs
