@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.6.1
+- Fixed autocomplete support for tasks
+- Added support for passing arguments when running a local model
+
 ## 0.6.0
 - Added a custom editor for Fixed Virtual Platform parameter files
 

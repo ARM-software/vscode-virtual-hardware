@@ -1,6 +1,6 @@
 ## Virtual Hardware extension Third Party IP
 
-Report prepared at : 2024-02-21 10:32:17
+Report prepared at : 2024-03-22 16:27:57
 
 | *Package* | *Version* | *Repository* | *License* |
 |---|---|---|---|
@@ -12,7 +12,7 @@ Report prepared at : 2024-02-21 10:32:17
 |jsonc-parser|3.2.1|https://github.com/microsoft/node-jsonc-parser|[MIT](https://github.com/microsoft/node-jsonc-parser/blob/main/LICENSE.md)|
 |node-fetch|3.3.2|https://github.com/node-fetch/node-fetch|[MIT](https://github.com/node-fetch/node-fetch/blob/main/LICENSE.md)|
 |path-browserify|1.0.1|https://github.com/browserify/path-browserify|[MIT](https://github.com/browserify/path-browserify/blob/master/LICENSE)|
-|primereact|10.5.0|https://github.com/primefaces/primereact|[MIT](https://github.com/primefaces/primereact/blob/master/LICENSE.md)|
+|primereact|10.5.1|https://github.com/primefaces/primereact|[MIT](https://github.com/primefaces/primereact/blob/master/LICENSE.md)|
 |react|18.2.0|https://github.com/facebook/react|[MIT](https://github.com/facebook/react/blob/main/LICENSE)|
 |react-dom|18.2.0|https://github.com/facebook/react|[MIT](https://github.com/facebook/react/blob/main/LICENSE)|
 |react-scroll|1.9.0|https://github.com/fisshy/react-scroll|[MIT](https://github.com/fisshy/react-scroll/blob/master/LICENSE)|
@@ -21,4 +21,4 @@ Report prepared at : 2024-02-21 10:32:17
 |vscode-messenger|0.4.5|https://github.com/TypeFox/vscode-messenger|[MIT](https://github.com/TypeFox/vscode-messenger/blob/main/LICENSE)|
 |vscode-uri|3.0.8|https://github.com/microsoft/vscode-uri|[MIT](https://github.com/microsoft/vscode-uri/blob/main/LICENSE.md)|
 |webview-ui-toolkit|1.4.0|https://github.com/microsoft/vscode-webview-ui-toolkit|[MIT](https://github.com/microsoft/vscode-webview-ui-toolkit/blob/main/LICENSE)|
-|ws|8.14.2|https://github.com/websockets/ws|[MIT](https://github.com/websockets/ws/blob/master/LICENSE)|
+|ws|8.16.0|https://github.com/websockets/ws|[MIT](https://github.com/websockets/ws/blob/master/LICENSE)|

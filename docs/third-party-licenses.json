@@ -57,7 +57,7 @@
     },
     {
         "name": "primereact",
-        "version": "10.5.0",
+        "version": "10.5.1",
         "spdx": "MIT",
         "url": "https://github.com/primefaces/primereact",
         "license": "https://github.com/primefaces/primereact/blob/master/LICENSE.md"
@@ -120,7 +120,7 @@
     },
     {
         "name": "ws",
-        "version": "8.14.2",
+        "version": "8.16.0",
         "spdx": "MIT",
         "url": "https://github.com/websockets/ws",
         "license": "https://github.com/websockets/ws/blob/master/LICENSE"
