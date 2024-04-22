@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.6.2
+- Added support for symlinks
+- Added new settings to specify the path to find local FVPs and the regex pattern to match them
+- Added setting to always display virtual device panel
+- Fixed local FVP discovery and refresh
+
 ## 0.6.1
 - Fixed autocomplete support for tasks
 - Added support for passing arguments when running a local model
