@@ -1,5 +1,10 @@
 # Change Log
 
+## [Unreleased]
+
+## 0.6.3
+- Fixed issue with FVP params generation
+ 
 ## 0.6.2
 - Added support for symlinks
 - Added new settings to specify the path to find local FVPs and the regex pattern to match them
